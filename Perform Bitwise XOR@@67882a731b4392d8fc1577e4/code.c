@@ -7,5 +7,5 @@ int main() {
     int result = a ^ b;
     printf("%d\n", result);
     
-    return 0;
+    return 0;
 }
